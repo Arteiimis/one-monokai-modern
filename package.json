@@ -1,0 +1,28 @@
+{
+  "name": "one-monokai-modern",
+  "displayName": "one monokai modern",
+  "description": "A modern theme for Discord based on the Monokai color palette.\\",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "one monokai modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one monokai modern-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arteiimis/one-monokai-modern"
+  },
+  "bugs": {
+    "url": "https://github.com/Arteiimis/one-monokai-modern/issues"
+  }
+}
